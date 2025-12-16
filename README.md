@@ -1,2 +1,2 @@
-# Data-Analyticsv-NIIT-
+# Data-Analytics-NIIT-
 Projects from NIIT 
